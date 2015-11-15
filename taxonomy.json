@@ -1,0 +1,4024 @@
+[
+    {
+        "name": "Media Topic",
+        "code": "Metadata about the scheme\/controlled vocabulary Scheme URI = http:\/\/cv.iptc.org\/newscodes\/mediatopic\/",
+        "definition": "",
+        "children": [],
+        "parent": ""
+    },
+    {
+        "name": "arts, culture and entertainment",
+        "code": "01000000",
+        "definition": "",
+        "children": {
+            "20000002": {
+                "name": "arts and entertainment",
+                "code": "20000002",
+                "definition": "",
+                "children": {
+                    "20000003": {
+                        "name": "animation",
+                        "code": "20000003",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000004": {
+                        "name": "cartoon",
+                        "code": "20000004",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000005": {
+                        "name": "cinema",
+                        "code": "20000005",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000007": {
+                        "name": "dance",
+                        "code": "20000007",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000011": {
+                        "name": "fashion",
+                        "code": "20000011",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000013": {
+                        "name": "literature",
+                        "code": "20000013",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000018": {
+                        "name": "music",
+                        "code": "20000018",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000028": {
+                        "name": "opera",
+                        "code": "20000028",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000029": {
+                        "name": "theatre",
+                        "code": "20000029",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20000031": {
+                        "name": "visual arts",
+                        "code": "20000031",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    },
+                    "20001135": {
+                        "name": "art exhibition",
+                        "code": "20001135",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000002"
+                    }
+                },
+                "parent": "01000000"
+            },
+            "20000038": {
+                "name": "culture",
+                "code": "20000038",
+                "definition": "",
+                "children": {
+                    "20000039": {
+                        "name": "cultural development",
+                        "code": "20000039",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000038"
+                    },
+                    "20000040": {
+                        "name": "customs and tradition",
+                        "code": "20000040",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000038"
+                    },
+                    "20000041": {
+                        "name": "festive event (culture)",
+                        "code": "20000041",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000038"
+                    },
+                    "20000042": {
+                        "name": "language",
+                        "code": "20000042",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000038"
+                    },
+                    "20000043": {
+                        "name": "library and museum",
+                        "code": "20000043",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000038"
+                    },
+                    "20000044": {
+                        "name": "monument and heritage site",
+                        "code": "20000044",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000038"
+                    }
+                },
+                "parent": "01000000"
+            },
+            "20000045": {
+                "name": "mass media",
+                "code": "20000045",
+                "definition": "",
+                "children": {
+                    "20000046": {
+                        "name": "news media",
+                        "code": "20000046",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000045"
+                    },
+                    "20000047": {
+                        "name": "newspaper",
+                        "code": "20000047",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000045"
+                    },
+                    "20000048": {
+                        "name": "online media",
+                        "code": "20000048",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000045"
+                    },
+                    "20000049": {
+                        "name": "periodical",
+                        "code": "20000049",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000045"
+                    },
+                    "20000050": {
+                        "name": "radio",
+                        "code": "20000050",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000045"
+                    },
+                    "20000051": {
+                        "name": "television",
+                        "code": "20000051",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000045"
+                    }
+                },
+                "parent": "01000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "crime, law and justice",
+        "code": "02000000",
+        "definition": "",
+        "children": {
+            "20000082": {
+                "name": "crime",
+                "code": "20000082",
+                "definition": "",
+                "children": {
+                    "20000083": {
+                        "name": "arson",
+                        "code": "20000083",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000084": {
+                        "name": "assault",
+                        "code": "20000084",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000086": {
+                        "name": "computer crime",
+                        "code": "20000086",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000087": {
+                        "name": "corporate crime",
+                        "code": "20000087",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000093": {
+                        "name": "corruption",
+                        "code": "20000093",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000095": {
+                        "name": "drug related crimes",
+                        "code": "20000095",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000097": {
+                        "name": "fraud",
+                        "code": "20000097",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000098": {
+                        "name": "hijacking",
+                        "code": "20000098",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000099": {
+                        "name": "homicide",
+                        "code": "20000099",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000100": {
+                        "name": "kidnapping",
+                        "code": "20000100",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000101": {
+                        "name": "organised crime",
+                        "code": "20000101",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000103": {
+                        "name": "terrorism",
+                        "code": "20000103",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000104": {
+                        "name": "theft",
+                        "code": "20000104",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    },
+                    "20000105": {
+                        "name": "war crime",
+                        "code": "20000105",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000082"
+                    }
+                },
+                "parent": "02000000"
+            },
+            "20000106": {
+                "name": "judiciary",
+                "code": "20000106",
+                "definition": "",
+                "children": {
+                    "20000107": {
+                        "name": "court",
+                        "code": "20000107",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000106"
+                    },
+                    "20000116": {
+                        "name": "out of court procedures",
+                        "code": "20000116",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000106"
+                    },
+                    "20000118": {
+                        "name": "prosecution",
+                        "code": "20000118",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000106"
+                    }
+                },
+                "parent": "02000000"
+            },
+            "20000119": {
+                "name": "justice and rights",
+                "code": "20000119",
+                "definition": "",
+                "children": [],
+                "parent": "02000000"
+            },
+            "20000121": {
+                "name": "law",
+                "code": "20000121",
+                "definition": "",
+                "children": {
+                    "20000122": {
+                        "name": "civil law",
+                        "code": "20000122",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000121"
+                    },
+                    "20000125": {
+                        "name": "criminal law",
+                        "code": "20000125",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000121"
+                    },
+                    "20000126": {
+                        "name": "international law",
+                        "code": "20000126",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000121"
+                    }
+                },
+                "parent": "02000000"
+            },
+            "20000129": {
+                "name": "law enforcement",
+                "code": "20000129",
+                "definition": "",
+                "children": {
+                    "20000130": {
+                        "name": "arrest",
+                        "code": "20000130",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000129"
+                    },
+                    "20000131": {
+                        "name": "investigation (criminal)",
+                        "code": "20000131",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000129"
+                    },
+                    "20000133": {
+                        "name": "police",
+                        "code": "20000133",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000129"
+                    },
+                    "20000134": {
+                        "name": "punishment (criminal)",
+                        "code": "20000134",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000129"
+                    }
+                },
+                "parent": "02000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "disaster, accident and emergency incident",
+        "code": "03000000",
+        "definition": "",
+        "children": {
+            "20000139": {
+                "name": "accident and emergency incident",
+                "code": "20000139",
+                "definition": "",
+                "children": {
+                    "20000140": {
+                        "name": "Change Note 2015-08-27: English name changed",
+                        "code": "20000140",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000139"
+                    },
+                    "20000141": {
+                        "name": "Change Note 2015-08-27: English name changed",
+                        "code": "20000141",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000139"
+                    },
+                    "20000143": {
+                        "name": "transport accident and incident",
+                        "code": "20000143",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000139"
+                    },
+                    "20000161": {
+                        "name": "structural failures",
+                        "code": "20000161",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000139"
+                    }
+                },
+                "parent": "03000000"
+            },
+            "20000148": {
+                "name": "disaster",
+                "code": "20000148",
+                "definition": "",
+                "children": {
+                    "20000149": {
+                        "name": "famine",
+                        "code": "20000149",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000148"
+                    },
+                    "20000150": {
+                        "name": "fire",
+                        "code": "20000150",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000148"
+                    },
+                    "20000151": {
+                        "name": "natural disasters",
+                        "code": "20000151",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000148"
+                    }
+                },
+                "parent": "03000000"
+            },
+            "20000160": {
+                "name": "emergency incident",
+                "code": "20000160",
+                "definition": "",
+                "children": {
+                    "20000162": {
+                        "name": "transport incident",
+                        "code": "20000162",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000160"
+                    }
+                },
+                "parent": "03000000"
+            },
+            "20000167": {
+                "name": "emergency planning",
+                "code": "20000167",
+                "definition": "",
+                "children": [],
+                "parent": "03000000"
+            },
+            "20000168": {
+                "name": "emergency response",
+                "code": "20000168",
+                "definition": "",
+                "children": [],
+                "parent": "03000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "economy, business and finance",
+        "code": "04000000",
+        "definition": "",
+        "children": {
+            "20000170": {
+                "name": "business information",
+                "code": "20000170",
+                "definition": "",
+                "children": {
+                    "20000171": {
+                        "name": "business finance",
+                        "code": "20000171",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000170"
+                    },
+                    "20000188": {
+                        "name": "human resources",
+                        "code": "20000188",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000170"
+                    },
+                    "20000192": {
+                        "name": "strategy and marketing",
+                        "code": "20000192",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000170"
+                    }
+                },
+                "parent": "04000000"
+            },
+            "20000209": {
+                "name": "economic sector",
+                "code": "20000209",
+                "definition": "",
+                "children": {
+                    "20000210": {
+                        "name": "agriculture",
+                        "code": "20000210",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000217": {
+                        "name": "chemicals",
+                        "code": "20000217",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000225": {
+                        "name": "computing and information technology",
+                        "code": "20000225",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000235": {
+                        "name": "construction and property",
+                        "code": "20000235",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000243": {
+                        "name": "consumer goods",
+                        "code": "20000243",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000256": {
+                        "name": "energy and resource",
+                        "code": "20000256",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000271": {
+                        "name": "financial and business service",
+                        "code": "20000271",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000294": {
+                        "name": "manufacturing and engineering",
+                        "code": "20000294",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000304": {
+                        "name": "media",
+                        "code": "20000304",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000316": {
+                        "name": "metal and mineral",
+                        "code": "20000316",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000322": {
+                        "name": "process industry",
+                        "code": "20000322",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000331": {
+                        "name": "tourism and leisure",
+                        "code": "20000331",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    },
+                    "20000337": {
+                        "name": "transport",
+                        "code": "20000337",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000209"
+                    }
+                },
+                "parent": "04000000"
+            },
+            "20000344": {
+                "name": "economy",
+                "code": "20000344",
+                "definition": "",
+                "children": {
+                    "20000346": {
+                        "name": "macro economics",
+                        "code": "20000346",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000344"
+                    }
+                },
+                "parent": "04000000"
+            },
+            "20000385": {
+                "name": "market and exchange",
+                "code": "20000385",
+                "definition": "",
+                "children": {
+                    "20000386": {
+                        "name": "commodity market",
+                        "code": "20000386",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000385"
+                    },
+                    "20000390": {
+                        "name": "debt market",
+                        "code": "20000390",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000385"
+                    },
+                    "20000391": {
+                        "name": "foreign exchange market",
+                        "code": "20000391",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000385"
+                    },
+                    "20000392": {
+                        "name": "loan market",
+                        "code": "20000392",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000385"
+                    },
+                    "20000394": {
+                        "name": "securities",
+                        "code": "20000394",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000385"
+                    },
+                    "20000396": {
+                        "name": "stocks",
+                        "code": "20000396",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000385"
+                    }
+                },
+                "parent": "04000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "education",
+        "code": "05000000",
+        "definition": "",
+        "children": {
+            "20000398": {
+                "name": "parent organisation",
+                "code": "20000398",
+                "definition": "",
+                "children": [],
+                "parent": "05000000"
+            },
+            "20000399": {
+                "name": "religious education",
+                "code": "20000399",
+                "definition": "",
+                "children": [],
+                "parent": "05000000"
+            },
+            "20000400": {
+                "name": "school",
+                "code": "20000400",
+                "definition": "",
+                "children": {
+                    "20000401": {
+                        "name": "elementary schools",
+                        "code": "20000401",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000400"
+                    },
+                    "20000402": {
+                        "name": "further education",
+                        "code": "20000402",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000400"
+                    },
+                    "20000404": {
+                        "name": "high schools",
+                        "code": "20000404",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000400"
+                    },
+                    "20000405": {
+                        "name": "higher education",
+                        "code": "20000405",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000400"
+                    },
+                    "20000408": {
+                        "name": "middle schools",
+                        "code": "20000408",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000400"
+                    },
+                    "20000409": {
+                        "name": "preschool",
+                        "code": "20000409",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000400"
+                    }
+                },
+                "parent": "05000000"
+            },
+            "20000410": {
+                "name": "social learning",
+                "code": "20000410",
+                "definition": "",
+                "children": [],
+                "parent": "05000000"
+            },
+            "20000411": {
+                "name": "teaching and learning",
+                "code": "20000411",
+                "definition": "",
+                "children": {
+                    "20000412": {
+                        "name": "curriculum",
+                        "code": "20000412",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000411"
+                    },
+                    "20000413": {
+                        "name": "examination",
+                        "code": "20000413",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000411"
+                    },
+                    "20000415": {
+                        "name": "students",
+                        "code": "20000415",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000411"
+                    },
+                    "20000416": {
+                        "name": "teachers",
+                        "code": "20000416",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000411"
+                    }
+                },
+                "parent": "05000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "environment",
+        "code": "06000000",
+        "definition": "",
+        "children": {
+            "20000418": {
+                "name": "climate change",
+                "code": "20000418",
+                "definition": "",
+                "children": {
+                    "20000419": {
+                        "name": "global warming",
+                        "code": "20000419",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000418"
+                    }
+                },
+                "parent": "06000000"
+            },
+            "20000420": {
+                "name": "conservation",
+                "code": "20000420",
+                "definition": "",
+                "children": {
+                    "20000421": {
+                        "name": "energy saving",
+                        "code": "20000421",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000420"
+                    },
+                    "20000422": {
+                        "name": "parks",
+                        "code": "20000422",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000420"
+                    }
+                },
+                "parent": "06000000"
+            },
+            "20000423": {
+                "name": "environmental politics",
+                "code": "20000423",
+                "definition": "",
+                "children": [],
+                "parent": "06000000"
+            },
+            "20000424": {
+                "name": "environmental pollution",
+                "code": "20000424",
+                "definition": "",
+                "children": {
+                    "20000425": {
+                        "name": "air pollution",
+                        "code": "20000425",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000424"
+                    },
+                    "20000426": {
+                        "name": "environmental cleanup",
+                        "code": "20000426",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000424"
+                    },
+                    "20000427": {
+                        "name": "hazardous materials",
+                        "code": "20000427",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000424"
+                    },
+                    "20000428": {
+                        "name": "waste materials",
+                        "code": "20000428",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000424"
+                    },
+                    "20000429": {
+                        "name": "water pollution",
+                        "code": "20000429",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000424"
+                    }
+                },
+                "parent": "06000000"
+            },
+            "20000430": {
+                "name": "natural resources",
+                "code": "20000430",
+                "definition": "",
+                "children": {
+                    "20000431": {
+                        "name": "energy resources",
+                        "code": "20000431",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000430"
+                    },
+                    "20000432": {
+                        "name": "land resources",
+                        "code": "20000432",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000430"
+                    },
+                    "20000435": {
+                        "name": "population growth",
+                        "code": "20000435",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000430"
+                    },
+                    "20000436": {
+                        "name": "renewable energy",
+                        "code": "20000436",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000430"
+                    },
+                    "20000437": {
+                        "name": "water",
+                        "code": "20000437",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000430"
+                    }
+                },
+                "parent": "06000000"
+            },
+            "20000441": {
+                "name": "nature",
+                "code": "20000441",
+                "definition": "",
+                "children": {
+                    "20000442": {
+                        "name": "ecosystem",
+                        "code": "20000442",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000441"
+                    },
+                    "20000443": {
+                        "name": "endangered species",
+                        "code": "20000443",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000441"
+                    },
+                    "20000444": {
+                        "name": "invasive species",
+                        "code": "20000444",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000441"
+                    }
+                },
+                "parent": "06000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "health",
+        "code": "07000000",
+        "definition": "",
+        "children": {
+            "20000446": {
+                "name": "diseases and conditions",
+                "code": "20000446",
+                "definition": "",
+                "children": {
+                    "20000447": {
+                        "name": "cancer",
+                        "code": "20000447",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    },
+                    "20000448": {
+                        "name": "communicable disease",
+                        "code": "20000448",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    },
+                    "20000454": {
+                        "name": "heart disease",
+                        "code": "20000454",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    },
+                    "20000455": {
+                        "name": "illness",
+                        "code": "20000455",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    },
+                    "20000456": {
+                        "name": "injury",
+                        "code": "20000456",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    },
+                    "20000457": {
+                        "name": "medical conditions",
+                        "code": "20000457",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    },
+                    "20000458": {
+                        "name": "mental and behavioural disorder",
+                        "code": "20000458",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    },
+                    "20000460": {
+                        "name": "obesity",
+                        "code": "20000460",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000446"
+                    }
+                },
+                "parent": "07000000"
+            },
+            "20000461": {
+                "name": "health facility",
+                "code": "20000461",
+                "definition": "",
+                "children": {
+                    "20000462": {
+                        "name": "hospital and clinic",
+                        "code": "20000462",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000461"
+                    }
+                },
+                "parent": "07000000"
+            },
+            "20000463": {
+                "name": "health organisations",
+                "code": "20000463",
+                "definition": "",
+                "children": [],
+                "parent": "07000000"
+            },
+            "20000464": {
+                "name": "health treatment",
+                "code": "20000464",
+                "definition": "",
+                "children": {
+                    "20000465": {
+                        "name": "diet",
+                        "code": "20000465",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000464"
+                    },
+                    "20000467": {
+                        "name": "medical drugs",
+                        "code": "20000467",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000464"
+                    },
+                    "20000469": {
+                        "name": "medical procedure\/test",
+                        "code": "20000469",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000464"
+                    },
+                    "20000470": {
+                        "name": "medicine",
+                        "code": "20000470",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000464"
+                    },
+                    "20000475": {
+                        "name": "physical fitness",
+                        "code": "20000475",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000464"
+                    },
+                    "20000476": {
+                        "name": "preventative medicine",
+                        "code": "20000476",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000464"
+                    },
+                    "20000478": {
+                        "name": "therapy",
+                        "code": "20000478",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000464"
+                    }
+                },
+                "parent": "07000000"
+            },
+            "20000479": {
+                "name": "healthcare policy",
+                "code": "20000479",
+                "definition": "",
+                "children": {
+                    "20000480": {
+                        "name": "government health care",
+                        "code": "20000480",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000479"
+                    },
+                    "20000483": {
+                        "name": "health insurance",
+                        "code": "20000483",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000479"
+                    },
+                    "20000484": {
+                        "name": "private health care",
+                        "code": "20000484",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000479"
+                    }
+                },
+                "parent": "07000000"
+            },
+            "20000485": {
+                "name": "medical profession",
+                "code": "20000485",
+                "definition": "",
+                "children": {
+                    "20000486": {
+                        "name": "medical service",
+                        "code": "20000486",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000485"
+                    },
+                    "20000487": {
+                        "name": "medical specialisation",
+                        "code": "20000487",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000485"
+                    },
+                    "20000492": {
+                        "name": "medical staff",
+                        "code": "20000492",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000485"
+                    }
+                },
+                "parent": "07000000"
+            },
+            "20000493": {
+                "name": "non-human diseases",
+                "code": "20000493",
+                "definition": "",
+                "children": {
+                    "20000494": {
+                        "name": "animal disease",
+                        "code": "20000494",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000493"
+                    },
+                    "20000495": {
+                        "name": "plant disease",
+                        "code": "20000495",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000493"
+                    }
+                },
+                "parent": "07000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "human interest",
+        "code": "08000000",
+        "definition": "",
+        "children": {
+            "20000497": {
+                "name": "accomplishment",
+                "code": "20000497",
+                "definition": "",
+                "children": {
+                    "20000498": {
+                        "name": "award and prize",
+                        "code": "20000498",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000497"
+                    },
+                    "20000499": {
+                        "name": "records and achievements",
+                        "code": "20000499",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000497"
+                    }
+                },
+                "parent": "08000000"
+            },
+            "20000500": {
+                "name": "animal",
+                "code": "20000500",
+                "definition": "",
+                "children": [],
+                "parent": "08000000"
+            },
+            "20000501": {
+                "name": "ceremony",
+                "code": "20000501",
+                "definition": "",
+                "children": [],
+                "parent": "08000000"
+            },
+            "20000502": {
+                "name": "people",
+                "code": "20000502",
+                "definition": "",
+                "children": {
+                    "20000503": {
+                        "name": "human mishap",
+                        "code": "20000503",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000502"
+                    },
+                    "20000504": {
+                        "name": "high-society",
+                        "code": "20000504",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000502"
+                    }
+                },
+                "parent": "08000000"
+            },
+            "20000507": {
+                "name": "plant",
+                "code": "20000507",
+                "definition": "",
+                "children": [],
+                "parent": "08000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "labour",
+        "code": "09000000",
+        "definition": "",
+        "children": {
+            "20000509": {
+                "name": "employment",
+                "code": "20000509",
+                "definition": "",
+                "children": {
+                    "20000510": {
+                        "name": "apprentices",
+                        "code": "20000510",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000509"
+                    },
+                    "20000511": {
+                        "name": "child labour",
+                        "code": "20000511",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000509"
+                    },
+                    "20000512": {
+                        "name": "employee",
+                        "code": "20000512",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000509"
+                    },
+                    "20000513": {
+                        "name": "employer",
+                        "code": "20000513",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000509"
+                    },
+                    "20000514": {
+                        "name": "employment training",
+                        "code": "20000514",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000509"
+                    },
+                    "20000517": {
+                        "name": "occupations",
+                        "code": "20000517",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000509"
+                    },
+                    "20000518": {
+                        "name": "wage and benefit",
+                        "code": "20000518",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000509"
+                    }
+                },
+                "parent": "09000000"
+            },
+            "20000521": {
+                "name": "employment legislation",
+                "code": "20000521",
+                "definition": "",
+                "children": {
+                    "20000522": {
+                        "name": "health and safety at work",
+                        "code": "20000522",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000521"
+                    }
+                },
+                "parent": "09000000"
+            },
+            "20000523": {
+                "name": "labour market",
+                "code": "20000523",
+                "definition": "",
+                "children": [],
+                "parent": "09000000"
+            },
+            "20000524": {
+                "name": "labour relations",
+                "code": "20000524",
+                "definition": "",
+                "children": {
+                    "20000525": {
+                        "name": "collective contract",
+                        "code": "20000525",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000524"
+                    },
+                    "20000529": {
+                        "name": "labour dispute",
+                        "code": "20000529",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000524"
+                    }
+                },
+                "parent": "09000000"
+            },
+            "20000531": {
+                "name": "retirement",
+                "code": "20000531",
+                "definition": "",
+                "children": {
+                    "20000532": {
+                        "name": "pension",
+                        "code": "20000532",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000531"
+                    }
+                },
+                "parent": "09000000"
+            },
+            "20000533": {
+                "name": "unemployment",
+                "code": "20000533",
+                "definition": "",
+                "children": {
+                    "20000534": {
+                        "name": "job layoffs",
+                        "code": "20000534",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000533"
+                    },
+                    "20000535": {
+                        "name": "unemployment benefits",
+                        "code": "20000535",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000533"
+                    }
+                },
+                "parent": "09000000"
+            },
+            "20000536": {
+                "name": "unions",
+                "code": "20000536",
+                "definition": "",
+                "children": [],
+                "parent": "09000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "lifestyle and leisure",
+        "code": "10000000",
+        "definition": "",
+        "children": {
+            "20000538": {
+                "name": "leisure",
+                "code": "20000538",
+                "definition": "",
+                "children": {
+                    "20000539": {
+                        "name": "club and association",
+                        "code": "20000539",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    },
+                    "20000540": {
+                        "name": "game",
+                        "code": "20000540",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    },
+                    "20000549": {
+                        "name": "gaming and lottery",
+                        "code": "20000549",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    },
+                    "20000550": {
+                        "name": "hobby",
+                        "code": "20000550",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    },
+                    "20000551": {
+                        "name": "holiday",
+                        "code": "20000551",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    },
+                    "20000553": {
+                        "name": "leisure venue",
+                        "code": "20000553",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    },
+                    "20000560": {
+                        "name": "recreational activities",
+                        "code": "20000560",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    },
+                    "20000563": {
+                        "name": "travel",
+                        "code": "20000563",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000538"
+                    }
+                },
+                "parent": "10000000"
+            },
+            "20000565": {
+                "name": "lifestyle",
+                "code": "20000565",
+                "definition": "",
+                "children": {
+                    "20000566": {
+                        "name": "automobile enthusiasm",
+                        "code": "20000566",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000565"
+                    },
+                    "20000567": {
+                        "name": "bicycle enthusiasm",
+                        "code": "20000567",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000565"
+                    },
+                    "20000568": {
+                        "name": "food and drink",
+                        "code": "20000568",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000565"
+                    },
+                    "20000570": {
+                        "name": "house and home",
+                        "code": "20000570",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000565"
+                    },
+                    "20000571": {
+                        "name": "motorbike enthusiasm",
+                        "code": "20000571",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000565"
+                    },
+                    "20000572": {
+                        "name": "trend",
+                        "code": "20000572",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000565"
+                    },
+                    "20001143": {
+                        "name": "party",
+                        "code": "20001143",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000565"
+                    }
+                },
+                "parent": "10000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "politics",
+        "code": "11000000",
+        "definition": "",
+        "children": {
+            "20000574": {
+                "name": "election",
+                "code": "20000574",
+                "definition": "",
+                "children": {
+                    "20000575": {
+                        "name": "citizens initiative and recall",
+                        "code": "20000575",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000576": {
+                        "name": "electoral system",
+                        "code": "20000576",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000577": {
+                        "name": "intergovernmental elections",
+                        "code": "20000577",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000578": {
+                        "name": "local elections",
+                        "code": "20000578",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000579": {
+                        "name": "national elections",
+                        "code": "20000579",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000580": {
+                        "name": "political campaigns",
+                        "code": "20000580",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000582": {
+                        "name": "political candidates",
+                        "code": "20000582",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000583": {
+                        "name": "primary elections",
+                        "code": "20000583",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000584": {
+                        "name": "referenda",
+                        "code": "20000584",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000585": {
+                        "name": "regional elections",
+                        "code": "20000585",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    },
+                    "20000586": {
+                        "name": "voting",
+                        "code": "20000586",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000574"
+                    }
+                },
+                "parent": "11000000"
+            },
+            "20000587": {
+                "name": "fundamental rights",
+                "code": "20000587",
+                "definition": "",
+                "children": {
+                    "20000120": {
+                        "name": "civil rights",
+                        "code": "20000120",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000587"
+                    },
+                    "20000588": {
+                        "name": "censorship",
+                        "code": "20000588",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000587"
+                    },
+                    "20000590": {
+                        "name": "freedom of religion",
+                        "code": "20000590",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000587"
+                    },
+                    "20000591": {
+                        "name": "freedom of the press",
+                        "code": "20000591",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000587"
+                    },
+                    "20000592": {
+                        "name": "human rights",
+                        "code": "20000592",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000587"
+                    }
+                },
+                "parent": "11000000"
+            },
+            "20000593": {
+                "name": "government",
+                "code": "20000593",
+                "definition": "",
+                "children": {
+                    "20000594": {
+                        "name": "civil and public service",
+                        "code": "20000594",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000597": {
+                        "name": "constitution (law)",
+                        "code": "20000597",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000598": {
+                        "name": "defence",
+                        "code": "20000598",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000605": {
+                        "name": "espionage and intelligence",
+                        "code": "20000605",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000606": {
+                        "name": "executive (government)",
+                        "code": "20000606",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000607": {
+                        "name": "government budget",
+                        "code": "20000607",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000609": {
+                        "name": "government department",
+                        "code": "20000609",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000610": {
+                        "name": "heads of state",
+                        "code": "20000610",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000611": {
+                        "name": "impeachment",
+                        "code": "20000611",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000612": {
+                        "name": "local government and authority",
+                        "code": "20000612",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000613": {
+                        "name": "ministers (government)",
+                        "code": "20000613",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000614": {
+                        "name": "national government",
+                        "code": "20000614",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000615": {
+                        "name": "parliament",
+                        "code": "20000615",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    },
+                    "20000618": {
+                        "name": "Authorities at a level above the local and below the national one. Could be named a state, province, department etc.",
+                        "code": "20000618",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000593"
+                    }
+                },
+                "parent": "11000000"
+            },
+            "20000621": {
+                "name": "government policy",
+                "code": "20000621",
+                "definition": "",
+                "children": {
+                    "20000345": {
+                        "name": "economic policy",
+                        "code": "20000345",
+                        "definition": "",
+                        "children": {
+                            "20000623": {
+                                "name": "nationalisation",
+                                "code": "20000623",
+                                "definition": "",
+                                "children": [],
+                                "parent": "20000345"
+                            },
+                            "20000624": {
+                                "name": "privatisation",
+                                "code": "20000624",
+                                "definition": "",
+                                "children": [],
+                                "parent": "20000345"
+                            },
+                            "20000625": {
+                                "name": "state-owned enterprise",
+                                "code": "20000625",
+                                "definition": "",
+                                "children": [],
+                                "parent": "20000345"
+                            }
+                        },
+                        "parent": "20000621"
+                    },
+                    "20000619": {
+                        "name": "safety of citizens",
+                        "code": "20000619",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    },
+                    "20000620": {
+                        "name": "taxation",
+                        "code": "20000620",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    },
+                    "20000626": {
+                        "name": "interior policy",
+                        "code": "20000626",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    },
+                    "20000634": {
+                        "name": "migration of people",
+                        "code": "20000634",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    },
+                    "20000635": {
+                        "name": "nuclear policy",
+                        "code": "20000635",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    },
+                    "20000636": {
+                        "name": "regulatory of industry",
+                        "code": "20000636",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    },
+                    "20001132": {
+                        "name": "cultural policies",
+                        "code": "20001132",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    },
+                    "20001147": {
+                        "name": "sports policies",
+                        "code": "20001147",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000621"
+                    }
+                },
+                "parent": "11000000"
+            },
+            "20000638": {
+                "name": "international relations",
+                "code": "20000638",
+                "definition": "",
+                "children": {
+                    "20000639": {
+                        "name": "diplomacy",
+                        "code": "20000639",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000638"
+                    },
+                    "20000642": {
+                        "name": "economic sanction",
+                        "code": "20000642",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000638"
+                    },
+                    "20000643": {
+                        "name": "foreign aid",
+                        "code": "20000643",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000638"
+                    },
+                    "20000644": {
+                        "name": "international organisation",
+                        "code": "20000644",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000638"
+                    },
+                    "20000645": {
+                        "name": "refugees and internally displaced people",
+                        "code": "20000645",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000638"
+                    }
+                },
+                "parent": "11000000"
+            },
+            "20000646": {
+                "name": "non-governmental organisation",
+                "code": "20000646",
+                "definition": "",
+                "children": [],
+                "parent": "11000000"
+            },
+            "20000647": {
+                "name": "political crisis",
+                "code": "20000647",
+                "definition": "",
+                "children": [],
+                "parent": "11000000"
+            },
+            "20000648": {
+                "name": "political dissent",
+                "code": "20000648",
+                "definition": "",
+                "children": [],
+                "parent": "11000000"
+            },
+            "20000649": {
+                "name": "political process",
+                "code": "20000649",
+                "definition": "",
+                "children": {
+                    "20000650": {
+                        "name": "lobbying",
+                        "code": "20000650",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000649"
+                    },
+                    "20000651": {
+                        "name": "political parties and movements",
+                        "code": "20000651",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000649"
+                    },
+                    "20000652": {
+                        "name": "political development",
+                        "code": "20000652",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000649"
+                    },
+                    "20000653": {
+                        "name": "political system",
+                        "code": "20000653",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000649"
+                    }
+                },
+                "parent": "11000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "religion and belief",
+        "code": "12000000",
+        "definition": "",
+        "children": {
+            "20000657": {
+                "name": "religious belief",
+                "code": "20000657",
+                "definition": "",
+                "children": {
+                    "20000658": {
+                        "name": "Buddhism",
+                        "code": "20000658",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000659": {
+                        "name": "Christianity",
+                        "code": "20000659",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000673": {
+                        "name": "Confucianism",
+                        "code": "20000673",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000674": {
+                        "name": "cult and sect",
+                        "code": "20000674",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000676": {
+                        "name": "Hinduism",
+                        "code": "20000676",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000677": {
+                        "name": "Islam",
+                        "code": "20000677",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000678": {
+                        "name": "Jainism",
+                        "code": "20000678",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000679": {
+                        "name": "Judaism",
+                        "code": "20000679",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000680": {
+                        "name": "nature religion",
+                        "code": "20000680",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000681": {
+                        "name": "Parsasm",
+                        "code": "20000681",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000682": {
+                        "name": "Scientology",
+                        "code": "20000682",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000683": {
+                        "name": "Shintoism",
+                        "code": "20000683",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000684": {
+                        "name": "Sikhism",
+                        "code": "20000684",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000685": {
+                        "name": "Taoism",
+                        "code": "20000685",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    },
+                    "20000686": {
+                        "name": "Unificationism",
+                        "code": "20000686",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000657"
+                    }
+                },
+                "parent": "12000000"
+            },
+            "20000687": {
+                "name": "interreligious dialogue",
+                "code": "20000687",
+                "definition": "",
+                "children": [],
+                "parent": "12000000"
+            },
+            "20000688": {
+                "name": "religious conflict",
+                "code": "20000688",
+                "definition": "",
+                "children": [],
+                "parent": "12000000"
+            },
+            "20000689": {
+                "name": "religious event",
+                "code": "20000689",
+                "definition": "",
+                "children": {
+                    "20000690": {
+                        "name": "religious festival or holiday",
+                        "code": "20000690",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000689"
+                    },
+                    "20000696": {
+                        "name": "religious ritual",
+                        "code": "20000696",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000689"
+                    }
+                },
+                "parent": "12000000"
+            },
+            "20000697": {
+                "name": "religious facilities",
+                "code": "20000697",
+                "definition": "",
+                "children": {
+                    "20000698": {
+                        "name": "church",
+                        "code": "20000698",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000697"
+                    },
+                    "20000699": {
+                        "name": "mosque",
+                        "code": "20000699",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000697"
+                    },
+                    "20000700": {
+                        "name": "synagogue",
+                        "code": "20000700",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000697"
+                    },
+                    "20000701": {
+                        "name": "temple",
+                        "code": "20000701",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000697"
+                    }
+                },
+                "parent": "12000000"
+            },
+            "20000702": {
+                "name": "religious institutions and state relations",
+                "code": "20000702",
+                "definition": "",
+                "children": [],
+                "parent": "12000000"
+            },
+            "20000703": {
+                "name": "religious leader",
+                "code": "20000703",
+                "definition": "",
+                "children": {
+                    "20000704": {
+                        "name": "pope",
+                        "code": "20000704",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000703"
+                    }
+                },
+                "parent": "12000000"
+            },
+            "20000705": {
+                "name": "religious text",
+                "code": "20000705",
+                "definition": "",
+                "children": {
+                    "20000706": {
+                        "name": "Bible",
+                        "code": "20000706",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000705"
+                    },
+                    "20000707": {
+                        "name": "Qur'an",
+                        "code": "20000707",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000705"
+                    },
+                    "20000708": {
+                        "name": "Torah",
+                        "code": "20000708",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000705"
+                    }
+                },
+                "parent": "12000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "science and technology",
+        "code": "13000000",
+        "definition": "",
+        "children": {
+            "20000710": {
+                "name": "biomedical science",
+                "code": "20000710",
+                "definition": "",
+                "children": {
+                    "20000711": {
+                        "name": "biotechnology science",
+                        "code": "20000711",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000710"
+                    },
+                    "20000712": {
+                        "name": "dentistry",
+                        "code": "20000712",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000710"
+                    },
+                    "20000713": {
+                        "name": "pharmacology",
+                        "code": "20000713",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000710"
+                    },
+                    "20000714": {
+                        "name": "veterinarian science",
+                        "code": "20000714",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000710"
+                    }
+                },
+                "parent": "13000000"
+            },
+            "20000715": {
+                "name": "mathematics",
+                "code": "20000715",
+                "definition": "",
+                "children": [],
+                "parent": "13000000"
+            },
+            "20000716": {
+                "name": "mechanical engineering",
+                "code": "20000716",
+                "definition": "",
+                "children": [],
+                "parent": "13000000"
+            },
+            "20000717": {
+                "name": "natural science",
+                "code": "20000717",
+                "definition": "",
+                "children": {
+                    "20000718": {
+                        "name": "astronomy",
+                        "code": "20000718",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000719": {
+                        "name": "biology",
+                        "code": "20000719",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000725": {
+                        "name": "chemistry",
+                        "code": "20000725",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000726": {
+                        "name": "cosmology",
+                        "code": "20000726",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000727": {
+                        "name": "geology",
+                        "code": "20000727",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000728": {
+                        "name": "horticulture",
+                        "code": "20000728",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000729": {
+                        "name": "marine science",
+                        "code": "20000729",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000730": {
+                        "name": "meteorology",
+                        "code": "20000730",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    },
+                    "20000731": {
+                        "name": "physics",
+                        "code": "20000731",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000717"
+                    }
+                },
+                "parent": "13000000"
+            },
+            "20000735": {
+                "name": "research",
+                "code": "20000735",
+                "definition": "",
+                "children": {
+                    "20000736": {
+                        "name": "discovery and innovation",
+                        "code": "20000736",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000735"
+                    },
+                    "20000737": {
+                        "name": "medical research",
+                        "code": "20000737",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000735"
+                    },
+                    "20000738": {
+                        "name": "scientific exploration",
+                        "code": "20000738",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000735"
+                    },
+                    "20000740": {
+                        "name": "scientific paper",
+                        "code": "20000740",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000735"
+                    }
+                },
+                "parent": "13000000"
+            },
+            "20000741": {
+                "name": "scientific institutions",
+                "code": "20000741",
+                "definition": "",
+                "children": [],
+                "parent": "13000000"
+            },
+            "20000742": {
+                "name": "social sciences",
+                "code": "20000742",
+                "definition": "",
+                "children": {
+                    "20000743": {
+                        "name": "anthropology",
+                        "code": "20000743",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000744": {
+                        "name": "archaeology",
+                        "code": "20000744",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000745": {
+                        "name": "economics",
+                        "code": "20000745",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000746": {
+                        "name": "geography",
+                        "code": "20000746",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000747": {
+                        "name": "history",
+                        "code": "20000747",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000748": {
+                        "name": "information science",
+                        "code": "20000748",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000749": {
+                        "name": "study of law",
+                        "code": "20000749",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000750": {
+                        "name": "linguistics",
+                        "code": "20000750",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000751": {
+                        "name": "philosophy",
+                        "code": "20000751",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000752": {
+                        "name": "political science",
+                        "code": "20000752",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000753": {
+                        "name": "psychology",
+                        "code": "20000753",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    },
+                    "20000754": {
+                        "name": "sociology",
+                        "code": "20000754",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000742"
+                    }
+                },
+                "parent": "13000000"
+            },
+            "20000755": {
+                "name": "scientific standards",
+                "code": "20000755",
+                "definition": "",
+                "children": [],
+                "parent": "13000000"
+            },
+            "20000756": {
+                "name": "technology and engineering",
+                "code": "20000756",
+                "definition": "",
+                "children": {
+                    "20000757": {
+                        "name": "aerospace engineering",
+                        "code": "20000757",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    },
+                    "20000759": {
+                        "name": "agricultural technology",
+                        "code": "20000759",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    },
+                    "20000760": {
+                        "name": "civil engineering",
+                        "code": "20000760",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    },
+                    "20000761": {
+                        "name": "electronics",
+                        "code": "20000761",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    },
+                    "20000762": {
+                        "name": "identification technology",
+                        "code": "20000762",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    },
+                    "20000763": {
+                        "name": "IT\/computer sciences",
+                        "code": "20000763",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    },
+                    "20000764": {
+                        "name": "material science",
+                        "code": "20000764",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    },
+                    "20000765": {
+                        "name": "micro science",
+                        "code": "20000765",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000756"
+                    }
+                },
+                "parent": "13000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "society",
+        "code": "14000000",
+        "definition": "",
+        "children": {
+            "20000768": {
+                "name": "communities",
+                "code": "20000768",
+                "definition": "",
+                "children": {
+                    "20000769": {
+                        "name": "social networking",
+                        "code": "20000769",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000768"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000770": {
+                "name": "demographics",
+                "code": "20000770",
+                "definition": "",
+                "children": {
+                    "20000771": {
+                        "name": "immigration",
+                        "code": "20000771",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000770"
+                    },
+                    "20000774": {
+                        "name": "population and census",
+                        "code": "20000774",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000770"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000775": {
+                "name": "discrimination",
+                "code": "20000775",
+                "definition": "",
+                "children": {
+                    "20000776": {
+                        "name": "ageism",
+                        "code": "20000776",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000775"
+                    },
+                    "20000777": {
+                        "name": "racism",
+                        "code": "20000777",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000775"
+                    },
+                    "20000778": {
+                        "name": "religious discrimination",
+                        "code": "20000778",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000775"
+                    },
+                    "20000779": {
+                        "name": "sexism",
+                        "code": "20000779",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000775"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000780": {
+                "name": "family",
+                "code": "20000780",
+                "definition": "",
+                "children": {
+                    "20000781": {
+                        "name": "adoption",
+                        "code": "20000781",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000780"
+                    },
+                    "20000782": {
+                        "name": "courtship",
+                        "code": "20000782",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000780"
+                    },
+                    "20000783": {
+                        "name": "divorce",
+                        "code": "20000783",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000780"
+                    },
+                    "20000784": {
+                        "name": "family planning",
+                        "code": "20000784",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000780"
+                    },
+                    "20000786": {
+                        "name": "marriage",
+                        "code": "20000786",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000780"
+                    },
+                    "20000787": {
+                        "name": "parent and child",
+                        "code": "20000787",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000780"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000788": {
+                "name": "mankind",
+                "code": "20000788",
+                "definition": "",
+                "children": {
+                    "20000789": {
+                        "name": "adults",
+                        "code": "20000789",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000790": {
+                        "name": "children",
+                        "code": "20000790",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000791": {
+                        "name": "disabled",
+                        "code": "20000791",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000792": {
+                        "name": "gays and lesbians",
+                        "code": "20000792",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000793": {
+                        "name": "gender",
+                        "code": "20000793",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000794": {
+                        "name": "infants",
+                        "code": "20000794",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000795": {
+                        "name": "national or ethnic minority",
+                        "code": "20000795",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000796": {
+                        "name": "nuclear radiation victims",
+                        "code": "20000796",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000797": {
+                        "name": "senior citizens",
+                        "code": "20000797",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    },
+                    "20000798": {
+                        "name": "teenagers",
+                        "code": "20000798",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000788"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000799": {
+                "name": "social condition",
+                "code": "20000799",
+                "definition": "",
+                "children": {
+                    "20000800": {
+                        "name": "homelessness",
+                        "code": "20000800",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000799"
+                    },
+                    "20000801": {
+                        "name": "poverty",
+                        "code": "20000801",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000799"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000802": {
+                "name": "social problem",
+                "code": "20000802",
+                "definition": "",
+                "children": {
+                    "20000803": {
+                        "name": "abusive behaviour",
+                        "code": "20000803",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000802"
+                    },
+                    "20000804": {
+                        "name": "addiction",
+                        "code": "20000804",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000802"
+                    },
+                    "20000805": {
+                        "name": "juvenile delinquency",
+                        "code": "20000805",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000802"
+                    },
+                    "20000806": {
+                        "name": "prostitution",
+                        "code": "20000806",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000802"
+                    },
+                    "20000807": {
+                        "name": "slavery",
+                        "code": "20000807",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000802"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000808": {
+                "name": "values",
+                "code": "20000808",
+                "definition": "",
+                "children": {
+                    "20000809": {
+                        "name": "corrupt practices",
+                        "code": "20000809",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000808"
+                    },
+                    "20000810": {
+                        "name": "death and dying",
+                        "code": "20000810",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000808"
+                    },
+                    "20000814": {
+                        "name": "ethics",
+                        "code": "20000814",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000808"
+                    },
+                    "20000815": {
+                        "name": "pornography",
+                        "code": "20000815",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000808"
+                    },
+                    "20000816": {
+                        "name": "sexual behaviour",
+                        "code": "20000816",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000808"
+                    }
+                },
+                "parent": "14000000"
+            },
+            "20000817": {
+                "name": "welfare",
+                "code": "20000817",
+                "definition": "",
+                "children": {
+                    "20000818": {
+                        "name": "charity",
+                        "code": "20000818",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000817"
+                    },
+                    "20000819": {
+                        "name": "long term care",
+                        "code": "20000819",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000817"
+                    },
+                    "20000820": {
+                        "name": "social services",
+                        "code": "20000820",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000817"
+                    }
+                },
+                "parent": "14000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "sport",
+        "code": "15000000",
+        "definition": "",
+        "children": {
+            "20000822": {
+                "name": "competition discipline",
+                "code": "20000822",
+                "definition": "",
+                "children": {
+                    "20000823": {
+                        "name": "American football",
+                        "code": "20000823",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000824": {
+                        "name": "archery",
+                        "code": "20000824",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000827": {
+                        "name": "athletics, track and field",
+                        "code": "20000827",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000846": {
+                        "name": "Australian rules football",
+                        "code": "20000846",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000847": {
+                        "name": "badminton",
+                        "code": "20000847",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000848": {
+                        "name": "bandy",
+                        "code": "20000848",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000849": {
+                        "name": "baseball",
+                        "code": "20000849",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000851": {
+                        "name": "basketball",
+                        "code": "20000851",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000852": {
+                        "name": "biathlon",
+                        "code": "20000852",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000853": {
+                        "name": "billiards",
+                        "code": "20000853",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000854": {
+                        "name": "bobsleigh",
+                        "code": "20000854",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000855": {
+                        "name": "bowls and petanque",
+                        "code": "20000855",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000856": {
+                        "name": "boxing",
+                        "code": "20000856",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000875": {
+                        "name": "bullfighting",
+                        "code": "20000875",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000876": {
+                        "name": "Canadian football",
+                        "code": "20000876",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000877": {
+                        "name": "canoeing",
+                        "code": "20000877",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000883": {
+                        "name": "casting (fishing)",
+                        "code": "20000883",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000884": {
+                        "name": "mountain climbing",
+                        "code": "20000884",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000888": {
+                        "name": "cricket",
+                        "code": "20000888",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000889": {
+                        "name": "croquet",
+                        "code": "20000889",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000890": {
+                        "name": "curling",
+                        "code": "20000890",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000892": {
+                        "name": "cycling",
+                        "code": "20000892",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000911": {
+                        "name": "competitive dancing",
+                        "code": "20000911",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000912": {
+                        "name": "darts",
+                        "code": "20000912",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000913": {
+                        "name": "diving",
+                        "code": "20000913",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000919": {
+                        "name": "dog racing",
+                        "code": "20000919",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000922": {
+                        "name": "duathlon",
+                        "code": "20000922",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000923": {
+                        "name": "equestrianism",
+                        "code": "20000923",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000929": {
+                        "name": "fencing",
+                        "code": "20000929",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000933": {
+                        "name": "field hockey",
+                        "code": "20000933",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000934": {
+                        "name": "figure skating",
+                        "code": "20000934",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000936": {
+                        "name": "fist ball",
+                        "code": "20000936",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000937": {
+                        "name": "floorball",
+                        "code": "20000937",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000938": {
+                        "name": "flying disc",
+                        "code": "20000938",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000939": {
+                        "name": "Gaelic football",
+                        "code": "20000939",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000940": {
+                        "name": "golf",
+                        "code": "20000940",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000942": {
+                        "name": "gymnastics",
+                        "code": "20000942",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000958": {
+                        "name": "handball (team)",
+                        "code": "20000958",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000959": {
+                        "name": "hornuss",
+                        "code": "20000959",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000960": {
+                        "name": "horse racing",
+                        "code": "20000960",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000964": {
+                        "name": "hurling",
+                        "code": "20000964",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000965": {
+                        "name": "ice hockey",
+                        "code": "20000965",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000967": {
+                        "name": "inline skating",
+                        "code": "20000967",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000968": {
+                        "name": "Jai Alai (Pelota)",
+                        "code": "20000968",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000978": {
+                        "name": "kabaddi",
+                        "code": "20000978",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000979": {
+                        "name": "kayaking",
+                        "code": "20000979",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000986": {
+                        "name": "lacrosse",
+                        "code": "20000986",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000987": {
+                        "name": "luge",
+                        "code": "20000987",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000988": {
+                        "name": "marathon",
+                        "code": "20000988",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000989": {
+                        "name": "modern pentathlon",
+                        "code": "20000989",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000990": {
+                        "name": "motorboat racing",
+                        "code": "20000990",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000991": {
+                        "name": "motor car racing",
+                        "code": "20000991",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20000998": {
+                        "name": "motorcycling",
+                        "code": "20000998",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001010": {
+                        "name": "netball",
+                        "code": "20001010",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001011": {
+                        "name": "orienteering",
+                        "code": "20001011",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001013": {
+                        "name": "parachuting",
+                        "code": "20001013",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001014": {
+                        "name": "polo",
+                        "code": "20001014",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001015": {
+                        "name": "pool",
+                        "code": "20001015",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001016": {
+                        "name": "power boating",
+                        "code": "20001016",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001017": {
+                        "name": "rodeo",
+                        "code": "20001017",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001026": {
+                        "name": "rowing",
+                        "code": "20001026",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001035": {
+                        "name": "rugby league",
+                        "code": "20001035",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001036": {
+                        "name": "rugby union",
+                        "code": "20001036",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001038": {
+                        "name": "sailing",
+                        "code": "20001038",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001047": {
+                        "name": "sepak takraw",
+                        "code": "20001047",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001048": {
+                        "name": "shinty",
+                        "code": "20001048",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001049": {
+                        "name": "sport shooting",
+                        "code": "20001049",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001055": {
+                        "name": "skeleton",
+                        "code": "20001055",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001056": {
+                        "name": "skiing",
+                        "code": "20001056",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001062": {
+                        "name": "sky diving",
+                        "code": "20001062",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001063": {
+                        "name": "snooker",
+                        "code": "20001063",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001064": {
+                        "name": "snowboarding",
+                        "code": "20001064",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001065": {
+                        "name": "soccer",
+                        "code": "20001065",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001066": {
+                        "name": "softball",
+                        "code": "20001066",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001067": {
+                        "name": "speed skating",
+                        "code": "20001067",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001068": {
+                        "name": "squash",
+                        "code": "20001068",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001069": {
+                        "name": "sumo wrestling",
+                        "code": "20001069",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001070": {
+                        "name": "surfing",
+                        "code": "20001070",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001071": {
+                        "name": "swimming",
+                        "code": "20001071",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001083": {
+                        "name": "table tennis",
+                        "code": "20001083",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001085": {
+                        "name": "tennis",
+                        "code": "20001085",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001086": {
+                        "name": "ten pin bowling",
+                        "code": "20001086",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001087": {
+                        "name": "triathlon",
+                        "code": "20001087",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001088": {
+                        "name": "tug-of-war",
+                        "code": "20001088",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001089": {
+                        "name": "volleyball",
+                        "code": "20001089",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001091": {
+                        "name": "water polo",
+                        "code": "20001091",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001092": {
+                        "name": "water skiing",
+                        "code": "20001092",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001093": {
+                        "name": "weightlifting",
+                        "code": "20001093",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001097": {
+                        "name": "windsurfing",
+                        "code": "20001097",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001098": {
+                        "name": "wrestling",
+                        "code": "20001098",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001151": {
+                        "name": "short track speed skating",
+                        "code": "20001151",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001154": {
+                        "name": "chess",
+                        "code": "20001154",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001155": {
+                        "name": "roller sports",
+                        "code": "20001155",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    },
+                    "20001157": {
+                        "name": "martial arts",
+                        "code": "20001157",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000822"
+                    }
+                },
+                "parent": "15000000"
+            },
+            "20001103": {
+                "name": "disciplinary action in sport",
+                "code": "20001103",
+                "definition": "",
+                "children": [],
+                "parent": "15000000"
+            },
+            "20001104": {
+                "name": "drug use in sport",
+                "code": "20001104",
+                "definition": "",
+                "children": {
+                    "20001105": {
+                        "name": "drug abuse in sport",
+                        "code": "20001105",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001104"
+                    },
+                    "20001106": {
+                        "name": "drug testing in sport",
+                        "code": "20001106",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001104"
+                    },
+                    "20001107": {
+                        "name": "medical drug use in sport",
+                        "code": "20001107",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001104"
+                    }
+                },
+                "parent": "15000000"
+            },
+            "20001108": {
+                "name": "sport event",
+                "code": "20001108",
+                "definition": "",
+                "children": {
+                    "20001109": {
+                        "name": "continental championship",
+                        "code": "20001109",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001110": {
+                        "name": "continental cup",
+                        "code": "20001110",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001111": {
+                        "name": "continental games",
+                        "code": "20001111",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001112": {
+                        "name": "international championship",
+                        "code": "20001112",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001113": {
+                        "name": "international cup",
+                        "code": "20001113",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001114": {
+                        "name": "international games",
+                        "code": "20001114",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001115": {
+                        "name": "national championship",
+                        "code": "20001115",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001116": {
+                        "name": "national cup",
+                        "code": "20001116",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001117": {
+                        "name": "national games",
+                        "code": "20001117",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001118": {
+                        "name": "regional championship",
+                        "code": "20001118",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001119": {
+                        "name": "regional cup",
+                        "code": "20001119",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001120": {
+                        "name": "regional games",
+                        "code": "20001120",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001121": {
+                        "name": "world championship",
+                        "code": "20001121",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001122": {
+                        "name": "world cup",
+                        "code": "20001122",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    },
+                    "20001123": {
+                        "name": "world games",
+                        "code": "20001123",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20001108"
+                    }
+                },
+                "parent": "15000000"
+            },
+            "20001124": {
+                "name": "sport industry",
+                "code": "20001124",
+                "definition": "",
+                "children": [],
+                "parent": "15000000"
+            },
+            "20001125": {
+                "name": "sport organisation",
+                "code": "20001125",
+                "definition": "",
+                "children": [],
+                "parent": "15000000"
+            },
+            "20001126": {
+                "name": "sport venue",
+                "code": "20001126",
+                "definition": "",
+                "children": [],
+                "parent": "15000000"
+            },
+            "20001148": {
+                "name": "transfer",
+                "code": "20001148",
+                "definition": "",
+                "children": [],
+                "parent": "15000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "conflicts, war and peace",
+        "code": "16000000",
+        "definition": "",
+        "children": {
+            "20000053": {
+                "name": "act of terror",
+                "code": "20000053",
+                "definition": "",
+                "children": {
+                    "20000054": {
+                        "name": "act of bioterrorism",
+                        "code": "20000054",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000053"
+                    },
+                    "20000055": {
+                        "name": "bombings",
+                        "code": "20000055",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000053"
+                    }
+                },
+                "parent": "16000000"
+            },
+            "20000056": {
+                "name": "armed conflict",
+                "code": "20000056",
+                "definition": "",
+                "children": {
+                    "20000057": {
+                        "name": "guerrilla activity",
+                        "code": "20000057",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000056"
+                    },
+                    "20000058": {
+                        "name": "international military intervention",
+                        "code": "20000058",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000056"
+                    },
+                    "20000060": {
+                        "name": "military occupation",
+                        "code": "20000060",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000056"
+                    },
+                    "20000061": {
+                        "name": "missing due to hostilities",
+                        "code": "20000061",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000056"
+                    },
+                    "20000062": {
+                        "name": "war",
+                        "code": "20000062",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000056"
+                    }
+                },
+                "parent": "16000000"
+            },
+            "20000065": {
+                "name": "civil unrest",
+                "code": "20000065",
+                "definition": "",
+                "children": {
+                    "20000066": {
+                        "name": "demonstration",
+                        "code": "20000066",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000065"
+                    },
+                    "20000067": {
+                        "name": "rebellion",
+                        "code": "20000067",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000065"
+                    },
+                    "20000068": {
+                        "name": "revolution",
+                        "code": "20000068",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000065"
+                    },
+                    "20000069": {
+                        "name": "riot",
+                        "code": "20000069",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000065"
+                    }
+                },
+                "parent": "16000000"
+            },
+            "20000070": {
+                "name": "coup d'etat",
+                "code": "20000070",
+                "definition": "",
+                "children": [],
+                "parent": "16000000"
+            },
+            "20000071": {
+                "name": "massacre",
+                "code": "20000071",
+                "definition": "",
+                "children": {
+                    "20000072": {
+                        "name": "genocide",
+                        "code": "20000072",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000071"
+                    }
+                },
+                "parent": "16000000"
+            },
+            "20000073": {
+                "name": "peace process",
+                "code": "20000073",
+                "definition": "",
+                "children": {
+                    "20000074": {
+                        "name": "peace envoy",
+                        "code": "20000074",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000073"
+                    },
+                    "20000075": {
+                        "name": "peace plan",
+                        "code": "20000075",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000073"
+                    },
+                    "20000076": {
+                        "name": "peace talks",
+                        "code": "20000076",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000073"
+                    }
+                },
+                "parent": "16000000"
+            },
+            "20000077": {
+                "name": "post-war reconstruction",
+                "code": "20000077",
+                "definition": "",
+                "children": {
+                    "20000078": {
+                        "name": "disarmament",
+                        "code": "20000078",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000077"
+                    },
+                    "20000079": {
+                        "name": "ordnance clearance",
+                        "code": "20000079",
+                        "definition": "",
+                        "children": [],
+                        "parent": "20000077"
+                    }
+                },
+                "parent": "16000000"
+            },
+            "20000080": {
+                "name": "prisoners and detainees",
+                "code": "20000080",
+                "definition": "",
+                "children": [],
+                "parent": "16000000"
+            }
+        },
+        "parent": ""
+    },
+    {
+        "name": "weather",
+        "code": "17000000",
+        "definition": "",
+        "children": {
+            "20001128": {
+                "name": "weather forecast",
+                "code": "20001128",
+                "definition": "",
+                "children": [],
+                "parent": "17000000"
+            },
+            "20001129": {
+                "name": "weather phenomena",
+                "code": "20001129",
+                "definition": "",
+                "children": [],
+                "parent": "17000000"
+            },
+            "20001130": {
+                "name": "weather statistic",
+                "code": "20001130",
+                "definition": "",
+                "children": [],
+                "parent": "17000000"
+            },
+            "20001131": {
+                "name": "weather warning",
+                "code": "20001131",
+                "definition": "",
+                "children": [],
+                "parent": "17000000"
+            }
+        },
+        "parent": ""
+    }
+]
